@@ -2,12 +2,13 @@
 
 ## Overview
 
-HRXpert is an HR management system designed to streamline various HR processes such as job postings, candidate management, leave applications, and approvals. The system leverages Google Sheets, Google Forms, Google Calendar, and Google Apps Script to automate and manage tasks efficiently.
+HRXpert is an HR management system designed to streamline various HR processes such as job postings, candidate management, leave applications, and approvals. 
+The system leverages Google Sheets, Google Forms, Google Calendar, and Google Apps Script to automate and manage tasks efficiently on AppSheet which is used as front end demo.
 
 ## Features
 
 1. **Job Posting and Candidate Management**
-   - HR can create job postings which generate Google Forms for candidates to fill out.
+   - HR can create job postings that generate Google Forms for candidates to fill out.
    - Candidates fill out the Google Form with their details and submit it.
    - HR can view the candidate list from the responses.
    - HR can reject candidates or schedule interviews.
