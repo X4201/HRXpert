@@ -29,7 +29,8 @@ function sendFailEmail(email, candidateName) {
 We regret to inform you that your application has been marked as 'Fail'. Thank you for your interest in the position and for taking the time to apply.
 
 Best regards,
-Your Company`;
+EXPERT IT COMPANY SDN BHD
+;
 
   MailApp.sendEmail(email, subject, body);
 }
