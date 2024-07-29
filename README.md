@@ -28,6 +28,8 @@ HRXpert is an HR management system designed to streamline various HR processes s
    - Descriptive data visualization for staff data.
    - Visualization of leave data for better insights.
 
+![HRXPERT_mainfunction](https://github.com/user-attachments/assets/f3bce6fb-5f2b-4e1e-bbcb-68744b958fa6)
+
 ## AppSheet Front End
 
 You can access the AppSheet front-end demo [here](https://www.appsheet.com/start/1b8da283-7cf0-4946-addc-d8cabefdff19).
