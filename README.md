@@ -2,8 +2,7 @@
 
 ## Overview
 
-HRXpert is an HR management system designed to streamline various HR processes such as job postings, candidate management, leave applications, and approvals. 
-The system leverages Google Sheets, Google Forms, Google Calendar, and Google Apps Script to automate and manage tasks efficiently on AppSheet which is used as front end demo.
+HRXpert is an HR management system designed to streamline various HR processes such as job postings, candidate management, leave applications, and approvals. The system leverages Google Sheets, Google Forms, Google Calendar, and Google Apps Script to automate and manage tasks efficiently. AppSheet is used as the front end demo.
 
 ## Features
 
@@ -28,3 +27,7 @@ The system leverages Google Sheets, Google Forms, Google Calendar, and Google Ap
 4. **Data Visualization**
    - Descriptive data visualization for staff data.
    - Visualization of leave data for better insights.
+
+## AppSheet Front End
+
+You can access the AppSheet front-end demo [here](https://www.appsheet.com/start/1b8da283-7cf0-4946-addc-d8cabefdff19).
